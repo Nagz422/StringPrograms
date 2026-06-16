@@ -1,4 +1,4 @@
-package com.process.strings;
+package com.strings.process;
 
 public class TraditionalForLoopMethod {
 	public static void main(String[] args) {

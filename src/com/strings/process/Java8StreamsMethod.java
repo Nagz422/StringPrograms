@@ -1,4 +1,4 @@
-package com.process.strings;
+package com.strings.process;
 
 public class Java8StreamsMethod {
 	public static void main(String[] args) {
