@@ -13,7 +13,7 @@
 
 #**How many ways can you reverse a String in Java?"**
 
-StringBuilder.reverse()
+StringBuilder.reverse()␠␠
 StringBuffer.reverse()
 For loop
 While loop
@@ -30,3 +30,6 @@ Most Efficient
 Example:
 
 String reversed = new StringBuilder("Java").reverse().toString();
+This is line 1␠␠
+This is line 2␠␠
+This is line 3
